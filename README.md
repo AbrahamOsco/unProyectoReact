@@ -1,11 +1,11 @@
 # unProyectoReact
 Instalamos: 
-npm install
-npm run build
-npm instal react-bootstrap bootstrap
-npm i bootstrap-icons
-npm i node-sass
-hacer " npm i node-sass " Te sale error?  HACE: npm install -> npm i sass y listo!!. 
+1. npm install
+1. npm run build
+1. npm instal react-bootstrap bootstrap
+1. npm i bootstrap-icons
+1. npm i node-sass
+1. hacer " npm i node-sass " Te sale error?  HACE: npm install -> npm i sass y listo!!. 
 
 
 1. No podes usar SCSS  si no tenes la depedencia sass -> ver arriba. 
