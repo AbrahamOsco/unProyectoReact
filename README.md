@@ -45,7 +45,7 @@ En la pagina ticket usando el sgt formando:
 function Ticket() {
   return (
     <div>
-      <h1> Ricardo my brother </h1>
+      <h1> prueba 123 </h1>
     </div>
   );
 }
