@@ -1,0 +1,26 @@
+h1{
+    text-align: center;
+}
+
+body{
+    display: grid;
+    place-content: center;
+}
+
+ul,h4{
+    margin: 0px;
+    padding: 0px;
+}
+// Con widh: 140px ponemos de golpe el tamanio de la iamgen
+img{
+    width:140px;
+    border-radius: 300px;
+}
+
+// con text-align center centramos de golpe todo. 
+ul,li{
+   border-radius: 30px;
+   border: 1px solid rgb(221, 221, 221);
+   max-width: 320px;
+   text-align: center;
+}

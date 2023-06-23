@@ -1,0 +1,19 @@
+#formS{
+    display: flex;
+    flex-direction: column;
+    padding: 10px 10px 10px 10px;
+}
+
+.imput{
+    padding-left: 100px;
+    border: 10px solid #ee0707;
+    border-radius: 10;
+    padding: 4 6px;
+    margin: 0 0 4px;
+}
+
+textarea{
+    font-family: inherit;
+    margin-bottom: 10px;
+    padding-left: 5px;
+}
